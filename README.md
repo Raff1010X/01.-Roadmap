@@ -45,9 +45,9 @@
 
 [Event-Propagation](https://github.com/Raff1010X/36.Event-Propagation)
 
-[Image-Carousel](https://github.com/Raff1010X/37.Image-Carousel)
+[Image-Carousel](https://github.com/Raff1010X/37.Image-Carousel) :star:
 
-[Blue-Mountains--3D-Paralax](https://github.com/Raff1010X/38.Blue-Mountains--3D-Paralax) :star:
+[Blue-Mountains--3D-Paralax](https://github.com/Raff1010X/38.Blue-Mountains--3D-Paralax)
 
 [Misterious-Krokow--Card](https://github.com/Raff1010X/39.Misterious-Krokow--Card)
 
