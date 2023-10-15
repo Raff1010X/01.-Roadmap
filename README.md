@@ -3,6 +3,7 @@
 
 #
 #
+#
 
 # NearMiss-Reporting-App <br/> <img width="30" src="./Logos/css.png" alt="CSS" title="CSS"/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/> <img width="30" src="./Logos/node.png" alt="Node.js" title="Node.js"/> <img width="30" src="./Logos/express.png" alt="Express" title="Express"/> <img width="30" src="./Logos/react.png" alt="React" title="React"/> <img width="30" src="./Logos/redux.png" alt="Redux" title="Redux"/> <img width="30" src="./Logos/postgre.png" alt="PostgreSQL" title="PostgreSQL"/> <img width="30" src="./Logos/jest.png" alt="Jest" title="Jest"/> <img width="30" src="./Logos/pwa.png" alt="PWA" title="PWA"/> <img width="30" src="./Logos/rwd.png" alt="RWD" title="RWD"/>
 
@@ -21,12 +22,6 @@
 
 #
 #
-
-# PDF-Reports (Starter-Template) <br/> <img width="30" src="./Logos/sass.png" alt="Sass" title="Sass"/> <img width="30" src="./Logos/ts.png" alt="TypeScript" title="TypeScript"/> <img width="30" src="./Logos/node.png" alt="Node.js" title="Node.js"/> <img width="30" src="./Logos/next.png" alt="Next.js" title="Next.js"/> <img width="30" src="./Logos/react.png" alt="React" title="React"/> <img width="30" src="./Logos/redux.png" alt="Redux" title="Redux"/>  <img width="30" src="./Logos/mongo.png" alt="mongoDB" title="mongoDB"/> <img width="30" src="./Logos/jest.png" alt="Jest" title="Jest"/>
-
-[PDF-Reports](https://github.com/Raff1010X/57.Reports) TypeScript, Next.js, React/Redux
-
-#
 #
 
 # ING-Green-Code-Challenges-2023 <br/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/> <img width="30" src="./Logos/node.png" alt="Node.js" title="Node.js"/> <img width="30" src="./Logos/express.png" alt="Express" title="Express"/> <img width="30" src="./Logos/jest.png" alt="Jest" title="Jest"/> 
@@ -36,6 +31,7 @@
 
 [AtmService](https://github.com/Raff1010X/atmservice)
 
+#
 #
 #
 
@@ -55,11 +51,15 @@
 
 [Hover-Over-Card-2](https://github.com/Raff1010X/41.Hover-Over-Card-2)
 
-[Hover-Over-Card-3-And-Click](https://github.com/Raff1010X/47.Hover-Over-Card-3-And-Click) :star:
+[Hover-Over-Card-3-And-Click](https://github.com/Raff1010X/47.Hover-Over-Card-3-And-Click) :star: 
+
+#
+
+### [PDF-Reports](https://github.com/Raff1010X/57.Reports) (Starter-Template) <br/> <img width="20" src="./Logos/sass.png" alt="Sass" title="Sass"/> <img width="20" src="./Logos/ts.png" alt="TypeScript" title="TypeScript"/> <img width="20" src="./Logos/node.png" alt="Node.js" title="Node.js"/> <img width="20" src="./Logos/next.png" alt="Next.js" title="Next.js"/> <img width="20" src="./Logos/react.png" alt="React" title="React"/> <img width="20" src="./Logos/redux.png" alt="Redux" title="Redux"/>  <img width="20" src="./Logos/mongo.png" alt="mongoDB" title="mongoDB"/> <img width="20" src="./Logos/jest.png" alt="Jest" title="Jest"/> <img width="20" src="./Logos/pwa.png" alt="PWA" title="PWA"/> <img width="20" src="./Logos/rwd.png" alt="RWD" title="RWD"/>
 
 #
 #
-
+#
 # [freeCodeCamp](https://www.freecodecamp.org/fccb4ec33f8-8e7e-4bc0-9b46-7f71525e37d1) Full-Stack-Certification-Projects
 ## Responsive-Web-Design-Projects <br/> <img width="30" src="./Logos/html.png" alt="HTML" title="HTML"/> <img width="30" src="./Logos/css.png" alt="CSS" title="CSS"/> <img width="30" src="./Logos/sass.png" alt="Sass" title="Sass"/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/> <img width="30" src="./Logos/rwd.png" alt="RWD.js" title="RWD.js"/>
 
@@ -194,10 +194,11 @@
 
 # 
 #
-<br/>
+#
 
 # Most Used Languages <br/> <br/> <div align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raff1010X&layout=compact&theme=dark) </div> <br/>
 
+#
 #
 
 
