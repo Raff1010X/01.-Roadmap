@@ -170,7 +170,7 @@
 #
 #
 #
-### [C#, WPF, XAML, .NET, VB6, VBA](https://github.com/Raff1010X/Other-Projects) <br/> Other Projects Review
+### [C#, WPF, XAML, .NET, VB6, VBA](https://github.com/Raff1010X/Other) <br/> Other Projects Review
 #
 #
 #
