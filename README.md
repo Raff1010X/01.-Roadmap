@@ -35,7 +35,7 @@
 #
 #
 
-# Mini-Projects <br/> <img width="30" src="./Logos/html.png" alt="HTML" title="HTML"/> <img width="30" src="./Logos/css.png" alt="CSS" title="CSS"/> <img width="30" src="./Logos/sass.png" alt="Sass" title="Sass"/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/>
+# Front-End-Mini-Projects <br/> <img width="30" src="./Logos/html.png" alt="HTML" title="HTML"/> <img width="30" src="./Logos/css.png" alt="CSS" title="CSS"/> <img width="30" src="./Logos/sass.png" alt="Sass" title="Sass"/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/>
 
 [RWD-CSS-animation](https://github.com/Raff1010X/35.RWD-CSS-animation) :star:
 
@@ -54,14 +54,16 @@
 [Hover-Over-Card-3-And-Click](https://github.com/Raff1010X/47.Hover-Over-Card-3-And-Click) :star: 
 
 #
+#
 
-### [PDF-Reports](https://github.com/Raff1010X/57.Reports) (Starter-Template) <br/> <img width="20" src="./Logos/sass.png" alt="Sass" title="Sass"/> <img width="20" src="./Logos/ts.png" alt="TypeScript" title="TypeScript"/> <img width="20" src="./Logos/node.png" alt="Node.js" title="Node.js"/> <img width="20" src="./Logos/next.png" alt="Next.js" title="Next.js"/> <img width="20" src="./Logos/react.png" alt="React" title="React"/> <img width="20" src="./Logos/redux.png" alt="Redux" title="Redux"/>  <img width="20" src="./Logos/mongo.png" alt="mongoDB" title="mongoDB"/> <img width="20" src="./Logos/jest.png" alt="Jest" title="Jest"/> <img width="20" src="./Logos/pwa.png" alt="PWA" title="PWA"/> <img width="20" src="./Logos/rwd.png" alt="RWD" title="RWD"/>
+# Back-End-Mini-Projects <br/> <img width="30" src="./Logos/sass.png" alt="Sass" title="Sass"/> <img width="30" src="./Logos/ts.png" alt="TypeScript" title="TypeScript"/> <img width="30" src="./Logos/node.png" alt="Node.js" title="Node.js"/> <img width="30" src="./Logos/next.png" alt="Next.js" title="Next.js"/> <img width="30" src="./Logos/react.png" alt="React" title="React"/> <img width="30" src="./Logos/redux.png" alt="Redux" title="Redux"/>  <img width="30" src="./Logos/mongo.png" alt="mongoDB" title="mongoDB"/> <img width="30" src="./Logos/jest.png" alt="Jest" title="Jest"/> <img width="30" src="./Logos/pwa.png" alt="PWA" title="PWA"/>
+[PDF-Reports](https://github.com/Raff1010X/57.Reports) (Starter-Template) 
 
 #
 #
 #
-# [freeCodeCamp](https://www.freecodecamp.org/fccb4ec33f8-8e7e-4bc0-9b46-7f71525e37d1) Full-Stack-Certification-Projects
-## Responsive-Web-Design-Projects <br/> <img width="30" src="./Logos/html.png" alt="HTML" title="HTML"/> <img width="30" src="./Logos/css.png" alt="CSS" title="CSS"/> <img width="30" src="./Logos/sass.png" alt="Sass" title="Sass"/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/> <img width="30" src="./Logos/rwd.png" alt="RWD.js" title="RWD.js"/>
+
+# Responsive-Web-Design-Projects <br/> <img width="30" src="./Logos/html.png" alt="HTML" title="HTML"/> <img width="30" src="./Logos/css.png" alt="CSS" title="CSS"/> <img width="30" src="./Logos/sass.png" alt="Sass" title="Sass"/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/> <img width="30" src="./Logos/rwd.png" alt="RWD.js" title="RWD.js"/>
 
 [Build-a-Tribute-Page](https://github.com/Raff1010X/02.Responsive-Web-Design-Projects--Build-a-Tribute-Page)
 
@@ -74,7 +76,7 @@
 [Build-a-Personal-Portfolio-Webpage](https://github.com/Raff1010X/06.Responsive-Web-Design-Projects--Build-a-Personal-Portfolio-Webpage)
 ##
 
-## JavaScript-Algorithms-and-Data-Structures <br/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/> <img width="30" src="./Logos/react.png" alt="React" title="React"/> 
+# JavaScript-Algorithms-and-Data-Structures <br/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/> <img width="30" src="./Logos/react.png" alt="React" title="React"/> 
 
 [Palindrome-Checker](https://github.com/Raff1010X/07.JavaScript-Algorithms-and-Data-Structures--Palindrome-Checker)
 
@@ -87,7 +89,7 @@
 [Cash-Register](https://github.com/Raff1010X/11.JavaScript-Algorithms-and-Data-Structures--Cash-Register) :star:
 ##
 
-## Front-End-Development-Libraries-Projects <br/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/> <img width="30" src="./Logos/react.png" alt="React" title="React"/> 
+# Front-End-Development-Libraries-Projects <br/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/> <img width="30" src="./Logos/react.png" alt="React" title="React"/> 
 
 [Build-a-Random-Quote-Machine](https://github.com/Raff1010X/12.Front-End-Development-Libraries-Projects--Build-a-Random-Quote-Machine)
 
@@ -100,7 +102,7 @@
 [Build-a-25-5-Clock](https://github.com/Raff1010X/16.Front-End-Development-Libraries-Projects--Build-a-25-5-Clock)
 ##
 
-## Data-Visualization-Projects <br/> <img width="30" src="./Logos/html.png" alt="HTML" title="HTML"/> <img width="30" src="./Logos/css.png" alt="CSS" title="CSS"/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/> <img width="30" src="./Logos/d3.png" alt="D3.js" title="D3.js"/>
+# Data-Visualization-Projects <br/> <img width="30" src="./Logos/html.png" alt="HTML" title="HTML"/> <img width="30" src="./Logos/css.png" alt="CSS" title="CSS"/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/> <img width="30" src="./Logos/d3.png" alt="D3.js" title="D3.js"/>
 
 [Visualize-Data-with-a-Bar-Chart](https://github.com/Raff1010X/17.Data-Visualization-Projects--Visualize-Data-with-a-Bar-Chart)
 
@@ -113,7 +115,7 @@
 [Visualize-Data-with-a-Treemap-Diagram](https://github.com/Raff1010X/21.Data-Visualization-Projects--Visualize-Data-with-a-Treemap-Diagram) :star:
 ##
 
-## Back-End-Development-and-APIs-Projects <br/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/> <img width="30" src="./Logos/node.png" alt="Node.js" title="Node.js"/> <img width="30" src="./Logos/express.png" alt="Express" title="Express"/> <img width="30" src="./Logos/mongo.png" alt="mongoDB" title="mongoDB"/> <img width="30" src="./Logos/rest.png" alt="REST" title="REST"/> 
+# Back-End-Development-and-APIs-Projects <br/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/> <img width="30" src="./Logos/node.png" alt="Node.js" title="Node.js"/> <img width="30" src="./Logos/express.png" alt="Express" title="Express"/> <img width="30" src="./Logos/mongo.png" alt="mongoDB" title="mongoDB"/> <img width="30" src="./Logos/rest.png" alt="REST" title="REST"/> 
 
 [Timestamp-Microservice](https://github.com/Raff1010X/22.Back-End-Development-and-APIs-Projects--Timestamp-Microservice)
 
@@ -126,7 +128,7 @@
 [File-Metadata-Microservice](https://github.com/Raff1010X/26.Back-End-Development-and-APIs--File-Metadata-Microservice)
 ##
 
-## Relational-Database-Projects <br/> <img width="30" src="./Logos/bash.png" alt="bash" title="bash"/> <img width="30" src="./Logos/postgre.png" alt="PostgreSQL" title="PostgreSQL"/> 
+# Relational-Database-Projects <br/> <img width="30" src="./Logos/bash.png" alt="bash" title="bash"/> <img width="30" src="./Logos/postgre.png" alt="PostgreSQL" title="PostgreSQL"/> 
 
 [Celestial-Bodies-Database](https://github.com/Raff1010X/27.Relational-Database-Projects--Celestial-Bodies-Database)
 
@@ -145,7 +147,7 @@
 [Learn-Bash-and-SQL-by-Building-a-Bike-Rental-Shop](https://github.com/Raff1010X/34.Relational-Database-Projects--Learn-Bash-and-SQL-by-Building-a-Bike-Rental-Shop)
 ##
 
-## Quality-Assurance-Projects <br/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/> <img width="30" src="./Logos/node.png" alt="Node.js" title="Node.js"/> <img width="30" src="./Logos/mongo.png" alt="mongoDB" title="mongoDB"/> <img width="30" src="./Logos/jest.png" alt="Jest" title="Jest"/> <img width="30" src="./Logos/mocha.png" alt="Mocha" title="Mocha"/> <img width="30" src="./Logos/rest.png" alt="REST" title="REST"/> 
+# Quality-Assurance-Projects <br/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/> <img width="30" src="./Logos/node.png" alt="Node.js" title="Node.js"/> <img width="30" src="./Logos/mongo.png" alt="mongoDB" title="mongoDB"/> <img width="30" src="./Logos/jest.png" alt="Jest" title="Jest"/> <img width="30" src="./Logos/mocha.png" alt="Mocha" title="Mocha"/> <img width="30" src="./Logos/rest.png" alt="REST" title="REST"/> 
 
 [Metric-Imperial-Converter](https://github.com/Raff1010X/42.Metric-Imperial-Converter)
 
@@ -158,15 +160,20 @@
 [American-British-Translator](https://github.com/Raff1010X/45.American-British-Translator) :star:
 ##
 
-## Information-Security-Projects: <br/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/> <img width="30" src="./Logos/node.png" alt="Node.js" title="Node.js"/> <img width="30" src="./Logos/mongo.png" alt="mongoDB" title="mongoDB"/> <img width="30" src="./Logos/jest.png" alt="Jest" title="Jest"/> <img width="30" src="./Logos/mocha.png" alt="Mocha" title="Mocha"/> <img width="30" src="./Logos/rest.png" alt="REST" title="REST"/>
+# Information-Security-Projects: <br/> <img width="30" src="./Logos/js.png" alt="JavaScript" title="JavaScript"/> <img width="30" src="./Logos/node.png" alt="Node.js" title="Node.js"/> <img width="30" src="./Logos/mongo.png" alt="mongoDB" title="mongoDB"/> <img width="30" src="./Logos/jest.png" alt="Jest" title="Jest"/> <img width="30" src="./Logos/mocha.png" alt="Mocha" title="Mocha"/> <img width="30" src="./Logos/rest.png" alt="REST" title="REST"/>
 
 [Stock Price Checker](https://github.com/Raff1010X/48.Stock-Price-Checker)
 
 [Anonymous Message Board](https://github.com/Raff1010X/49.Anonymous-Message-Board) :star:
 
-##
+#
+#
+#
+### [C#, WPF, XAML, .NET, VB6, VBA](https://github.com/Raff1010X/Other-Projects) <br/> Other Projects Review
+#
+#
+#
 
-##
 # Certificates <br/> <img width="66" src="./Logos/agh.png" alt="AGH" title="AGH"/> <img width="66" src="./Logos/fcc.png" alt="freeCodeCamp" title="freeCodeCamp"/>
 
 ## [AGH University of Science and Technology](http://paw.agh.edu.pl/) 
