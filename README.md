@@ -168,6 +168,20 @@
 [Stock Price Checker](https://github.com/Raff1010X/48.Stock-Price-Checker)
 
 [Anonymous Message Board](https://github.com/Raff1010X/49.Anonymous-Message-Board) :star:
+##
+
+# Scientific Computing with Python <br/> <img width="30" src="./Logos/python.png" alt="Python" title="Python"/> 
+
+[Arithmetic-Formatter](https://github.com/Raff1010X/60.Arithmetic-Formatter)
+
+[Time-Calculator](https://github.com/Raff1010X/61.Time-Calculator)
+
+[Budget-App](https://github.com/Raff1010X/62.Budget-App)
+
+[Polygon-Area-Calculator](https://github.com/Raff1010X/63.Polygon-Area-Calculator) :star:
+
+[Probability-Calculator](https://github.com/Raff1010X/64.Probability-Calculator) :star:
+##
 
 #
 #
