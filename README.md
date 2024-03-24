@@ -172,10 +172,6 @@
 #
 #
 #
-### [C#, WPF, XAML, .NET, VB6, VBA](https://github.com/Raff1010X/Other) <br/> Other Projects Review
-#
-#
-#
 
 # Certificates <br/> <img width="66" src="./Logos/agh.png" alt="AGH" title="AGH"/> <img width="66" src="./Logos/fcc.png" alt="freeCodeCamp" title="freeCodeCamp"/>
 
@@ -201,6 +197,8 @@
 [Relational-Database :page_with_curl:](./Certificates/RD.png)
 
 [Quality-Assurance :page_with_curl:](./Certificates/QA.png)
+
+[Scientific Computing with Python :page_with_curl:](./Certificates/PYT.png)
 
 # 
 #
